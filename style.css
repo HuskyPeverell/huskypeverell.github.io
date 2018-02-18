@@ -23,3 +23,14 @@ body { /* Defines page background color and font...*/
     font-family: arial;
     background-color: darkslategrey;
 }
+
+button.large {
+    background-color: #00000000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
