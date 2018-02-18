@@ -25,8 +25,8 @@ body { /* Defines page background color and font...*/
 }
 ul{
     list-style-type: none;
-    margin: 25px;
-    padding: 20px;
+    margin: 0px;
+    padding: 0px;
     overflow: hidden;
     background-color: #333;
 }
