@@ -24,7 +24,7 @@ body { /* Defines page background color and font...*/
     background-color: darkslategrey;
 }
 
-button{
+a.button{
     background-color: #00000000; /* Green */
     border: none;
     color: white;
