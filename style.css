@@ -3,7 +3,7 @@ p.one{ /* This defines the border graphics for the page header */
     padding: 5px;
     font-size: 200%;
     text-align: center;
-    width: 100px;
+    width: 200px;
     height: 40px;
     border-bottom: 2px solid #D48F54;
     border-left: 2px solid #D48F54;
